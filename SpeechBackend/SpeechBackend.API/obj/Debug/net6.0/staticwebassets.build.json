@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d+5pNWjWkTES25BMDh7aab67X0MgOA/DT+K4YmetoFY=",
+  "Source": "SpeechBackend.API",
+  "BasePath": "_content/SpeechBackend.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

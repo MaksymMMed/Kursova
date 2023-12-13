@@ -1,0 +1,14 @@
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\obj\Debug\net6.0\SpeechBackend.DAL.csproj.AssemblyReference.cache
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\obj\Debug\net6.0\SpeechBackend.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\obj\Debug\net6.0\SpeechBackend.DAL.AssemblyInfoInputs.cache
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\obj\Debug\net6.0\SpeechBackend.DAL.AssemblyInfo.cs
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\obj\Debug\net6.0\SpeechBackend.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\bin\Debug\net6.0\SpeechBackend.DAL.deps.json
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\bin\Debug\net6.0\SpeechBackend.DAL.runtimeconfig.json
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\bin\Debug\net6.0\SpeechBackend.DAL.dll
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\bin\Debug\net6.0\SpeechBackend.DAL.pdb
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\obj\Debug\net6.0\SpeechBackend.DAL.dll
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\obj\Debug\net6.0\refint\SpeechBackend.DAL.dll
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\obj\Debug\net6.0\SpeechBackend.DAL.pdb
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\obj\Debug\net6.0\SpeechBackend.DAL.genruntimeconfig.cache
+C:\Projects\Kursova\SpeechBackend\SpeechBackend.DAL\obj\Debug\net6.0\ref\SpeechBackend.DAL.dll

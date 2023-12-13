@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SpeechBackend.API.props" />
+</Project>
